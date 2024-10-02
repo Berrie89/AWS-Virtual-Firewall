@@ -2,7 +2,8 @@
 ## Security Group
 A security group is a virtual firewall that controls traffic to and from an instance. Security groups are stateful which means all inbound traffic are allowed to flow out regardless of outbound rules. Security groups use a default deny approach, it denies all traffic that is not explicitely allowed by a rule. When you create a security group you must create inbound rules to allow traffic into your instance.
 ### Setting up Security Group
-i. I navigated to the security group section on the AWS console.
+1. I navigated to the security group section on the AWS console.
+2. I clicked on create security group
 I 
 
 ## Network Access Control List (NACL)
